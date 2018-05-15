@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+# for VSCode
+.vs
+.tempChromeProfileForDebug
+.temp
+*.js.map
+*.js.fx
+*.d.ts
+!dist/**/*.d.ts
+!lib.d.ts
+
